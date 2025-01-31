@@ -1,6 +1,6 @@
 Halo
 saya belajar kalkulator serdehana
-![Uploading Screenshot (3).png…]()
+![Screenshot (3)](https://github.com/user-attachments/assets/172755ec-f600-475c-8f08-029403b41853)
 Ini adalah tampilan kalkulator nya
 
 dan ini adalah web nya
